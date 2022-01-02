@@ -1,0 +1,44 @@
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\bin\Debug\Resources\BackgroundMusic.mid
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\bin\Debug\Resources\Correct.wav
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\bin\Debug\Resources\Incorrect.wav
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\bin\Debug\Cathrine_GameCoinGuess.exe.config
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\bin\Debug\Cathrine_GameCoinGuess.exe
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\bin\Debug\Cathrine_GameCoinGuess.pdb
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Interop.WMPLib.dll
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Cathrine_GameCoinGuess.csproj.ResolveComReference.cache
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Cathrine_GameCoinGuess.FormGuessTheCoinFace.resources
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Cathrine_GameCoinGuess.Properties.Resources.resources
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Cathrine_GameCoinGuess.csproj.GenerateResource.cache
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Cathrine_GameCoinGuess.csproj.CoreCompileInputs.cache
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Cathrine_GameCoinGuess.exe
+C:\Users\user09\Documents\Visual Studio 2017\Projects\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Cathrine_GameCoinGuess.pdb
+C:\Users\HP\Downloads\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\bin\Debug\Resources\BackgroundMusic.mid
+C:\Users\HP\Downloads\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\bin\Debug\Resources\Correct.wav
+C:\Users\HP\Downloads\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\bin\Debug\Resources\Incorrect.wav
+C:\Users\HP\Downloads\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\bin\Debug\Cathrine_GameCoinGuess.exe.config
+C:\Users\HP\Downloads\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\bin\Debug\Cathrine_GameCoinGuess.exe
+C:\Users\HP\Downloads\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\bin\Debug\Cathrine_GameCoinGuess.pdb
+C:\Users\HP\Downloads\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Cathrine_GameCoinGuess.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Downloads\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Cathrine_GameCoinGuess.csproj.ResolveComReference.cache
+C:\Users\HP\Downloads\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Cathrine_GameCoinGuess.FormGuessTheCoinFace.resources
+C:\Users\HP\Downloads\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Cathrine_GameCoinGuess.Properties.Resources.resources
+C:\Users\HP\Downloads\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Cathrine_GameCoinGuess.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Cathrine_GameCoinGuess.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Cathrine_GameCoinGuess.exe
+C:\Users\HP\Downloads\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Cathrine_GameCoinGuess.pdb
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\bin\Debug\Resources\BackgroundMusic.mid
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\bin\Debug\Resources\Correct.wav
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\bin\Debug\Resources\Incorrect.wav
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\bin\Debug\Cathrine_GameCoinGuess.exe.config
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\bin\Debug\Cathrine_GameCoinGuess.exe
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\bin\Debug\Cathrine_GameCoinGuess.pdb
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Cathrine_GameCoinGuess.csprojAssemblyReference.cache
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Interop.WMPLib.dll
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Cathrine_GameCoinGuess.csproj.ResolveComReference.cache
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Cathrine_GameCoinGuess.FormGuessTheCoinFace.resources
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Cathrine_GameCoinGuess.Properties.Resources.resources
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Cathrine_GameCoinGuess.csproj.GenerateResource.cache
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Cathrine_GameCoinGuess.csproj.CoreCompileInputs.cache
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Cathrine_GameCoinGuess.exe
+D:\Cathrine_SIB '19\smt1\ALPRO\EXERCISEs\Cathrine_160719015_Week8A\Cathrine_GameCoinGuess\Cathrine_GameCoinGuess\obj\Debug\Cathrine_GameCoinGuess.pdb
